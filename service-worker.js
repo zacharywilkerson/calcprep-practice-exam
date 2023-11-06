@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calcprep-practice-exam/precache-manifest.d9de4caaf116104bebef240612bfc426.js"
+  "/calcprep-practice-exam/precache-manifest.616a4d259d5a16435c0dc98b50ee0173.js"
 );
 
 self.addEventListener('message', (event) => {
